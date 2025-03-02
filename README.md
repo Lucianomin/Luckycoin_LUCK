@@ -7,7 +7,7 @@ First version Deployed 27.12.2022
 
 # Luckycoin (LUCK) - Cryptocurrency Project
 
-![Luckycoin](https://learnluckycoin.com/)
+![Luckycoin](https://learnluckycoin.com)
 
 # Project Overview
 Luckycoin (LUCK) is a blockchain-based cryptocurrency designed for fast, secure, and low-fee transactions. Built with efficiency in mind, this project aims to provide a decentralized and scalable solution for digital payments.
